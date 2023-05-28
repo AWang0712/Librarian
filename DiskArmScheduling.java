@@ -1,10 +1,6 @@
-/*
-* name: Annan Wang
-* id: 1652663
-* */
 import java.util.*;
 
-public class hw4{
+public class DiskArmScheduling{
     static int size = 10;// number of requests
     static int diskSize = 100;// size of disk
 
